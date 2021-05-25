@@ -5,7 +5,6 @@ import 'package:coronavirus_tracker_app_naitik_verma/box/most_affected_country.d
 import 'package:coronavirus_tracker_app_naitik_verma/box/worlswidebox.dart';
 import 'package:coronavirus_tracker_app_naitik_verma/data_source.dart';
 import 'package:flutter/material.dart';
-import 'package:pie_chart/pie_chart.dart';
 import 'package:http/http.dart' as http; // we have just named the package
 
 class HomePage extends StatefulWidget {
